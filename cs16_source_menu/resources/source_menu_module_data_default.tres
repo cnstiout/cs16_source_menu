@@ -1,0 +1,6 @@
+[gd_resource type="Resource" script_class="SourceMenuModuleData" format=3 uid="uid://ibij7offvb68"]
+
+[ext_resource type="Script" uid="uid://dreycma8wxcif" path="res://cs16_source_menu/resources/source_menu_module_data.gd" id="1_data_script"]
+
+[resource]
+script = ExtResource("1_data_script")
