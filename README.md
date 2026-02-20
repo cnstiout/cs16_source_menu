@@ -11,3 +11,5 @@ Donnez a votre jeu Godot une interface old-school inspiree Counter-Strike, en qu
 - Sauvegarde automatique des reglages dans `user://`
 
 Instanciez `res://addons/cs16_source_menu/scenes/source_menu_module.tscn`, connectez les signaux, et le menu est pret a l'emploi.
+
+LICENCE - MIT
