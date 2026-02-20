@@ -1,8 +1,5 @@
 # CS16 Source Menu Module
 
-Runtime addon module for a Source/CS16 style menu.
-It is not an EditorPlugin and is not enabled in `project.godot`.
-
 ## Architecture
 
 The module is now fully node-based (no runtime UI generation):
