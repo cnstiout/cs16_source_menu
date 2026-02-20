@@ -1,6 +1,6 @@
 ## CS16 Source Menu
 
-Give your Godot game an old-school Counter-Strike inspired interface in minutes.
+Give your Godot game an old-school Counter-Strike inspired interface.
 
 CS16 Source Menu is an independent runtime addon that ships with a complete main menu and fully functional options system, with an instant CS-style look.
 
